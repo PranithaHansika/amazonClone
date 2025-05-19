@@ -3,6 +3,11 @@
 This project is a simple clone of the Amazon homepage, built using only **HTML** and **CSS**.  
 It serves as a front-end practice project to replicate the layout and design of Amazon's main page.
 
+
+## 🌐 Live Demo
+
+Check it out here: [[Live Demo](https://amazon-clone-blue-five.vercel.app/)]
+
 ## 🚀 Features
 
 - **Responsive Design** – Adapts to different screen sizes.
