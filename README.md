@@ -39,20 +39,21 @@ amazonClone/
 
        git clone https://github.com/PranithaHansika/amazonClone.git
 
-2.Navigate to the project folder:
+2. Navigate to the project folder:
 
-      cd amazonClone
+       cd amazonClone
 
-3.Open index.html in your browser:
+3. Open index.html in your browser:
 
-  You can double-click the file or run:
+   You can double-click the file or run:
 
-    start index.html     # For Windows
-    open index.html      # For macOS
+       start index.html     # For Windows
+       open index.html      # For macOS
 
     
 
 🙋‍♀️ Author:
 
 Name: Pranitha Hansika
+
 GitHub: @PranithaHansika
